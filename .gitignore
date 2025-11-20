@@ -1,5 +1,18 @@
+## Build artifacts
 bin/
 obj/
+*.pdb
+
+## IDE files
+.vs/
+.vscode/
+.idea/
 *.user
 *.suo
-.vs/
+
+## OS files
+.DS_Store
+Thumbs.db
+
+## Keep release files
+!AmmoWeightModifier-Release/SPT/user/mods/AmmoWeightModifier/AmmoWeightModifier.dll

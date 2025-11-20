@@ -1,0 +1,11 @@
+{
+    "name": "Ammo Weight Modifier",
+    "author": "LumurkFox",
+    "version": "1.0.0",
+    "license": "MIT",
+    "main": "AmmoWeightModifier.dll",
+    "sptVersion": "~4.0.0",
+    "contributors": [],
+    "url": "https://github.com/lumurkfox/ammo-weight-modifier",
+    "incompatibilities": []
+}
